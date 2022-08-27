@@ -1,0 +1,2 @@
+
+DWORD NtfsGetBytesPerCluster(char* szVolume);
