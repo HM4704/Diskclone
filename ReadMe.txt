@@ -1,1 +1,1 @@
-Tool for coping a disk
+Tool for copying a disk
