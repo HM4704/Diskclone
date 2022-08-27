@@ -1,4 +1,4 @@
-Tool for copying a disk
+Tool for copying a disk using multithreading
 
 Usage:
     Diskclone [action] [Imagename]
